@@ -1,0 +1,12 @@
+html {
+	background: linear-gradient(135deg, #ccc, #666);
+	background-repeat: no-repeat;
+	height: 100%;
+	font-family: verdana;
+}
+
+.mydiv {
+	width: 200px;
+	margin: auto;
+	padding: 20px;
+}
